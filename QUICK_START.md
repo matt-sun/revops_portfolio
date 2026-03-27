@@ -1,4 +1,4 @@
-# QUICK START GUIDE - START HERE!
+ # QUICK START GUIDE - START HERE!
 
 **Time to first query: 30 minutes**
 **Time to first dashboard: 3 hours**
